@@ -16,13 +16,12 @@ mbitsiedward@gmail.com
 
 ## Technologies Used 
 
-- Java v9
+- Java
 - Gradle
 - Spark Framework
-- CSS (Bootstrap)
+- Postman
 - JUnit v4.12
-- Jacoco Plugin
-- Velocity Templating Engine
+- Postgres
 
 
 ## Setup Installations Requirements
