@@ -31,9 +31,6 @@ public class App {
         Connection conn;
         Gson gson = new Gson();
 
-//        staticFileLocation("/public");
-//        String connectionString = "jdbc:h2:~/jadle.db;INIT=RUNSCRIPT from 'classpath:db/create.sql'";
-//        Sql2o sql2o = new Sql2o(connectionString, "", "");
 
         departmentDao = new Sql2oDepartmentDao(DB.sql2o);
         newsDao = new Sql2oNewsDao(DB.sql2o);
